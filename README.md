@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [The Scalable CFO](https://auto.thescalablecfo.com/)
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Next.js and DevOps**
 
-- 💬 Ask me about **MERN, Next.js**
+- 💬 Ask me about **MERN Stack, React.js**
 
 - 📫 How to reach me **ehtsham.shahbaz.1998@gmail.com**
 
