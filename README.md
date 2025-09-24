@@ -4,11 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehtsham-shahbaz-98&label=Profile%20views&color=0e75b6&style=flat" alt="ehtsham-shahbaz-98" /> </p>
 
-- 🔭 I’m currently working on [The Scalable CFO](https://auto.thescalablecfo.com/)
+- 🙋‍♂️ Full Stack Developer at Applivity Pvt Ltd.
 
-- 🌱 I’m currently learning **Next.js and DevOps**
+- 🌱 I have more than 3 years of experience.
 
-- 💬 Ask me about **MERN Stack, React.js**
+- 💬 Ask me about Web.
+
+- In my free time, love playing video games, watching TV shows, movies, sports, etc.
 
 - 📫 How to reach me **ehtsham.shahbaz.1998@gmail.com**
 
