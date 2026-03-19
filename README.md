@@ -16,8 +16,8 @@
 ---
 
 ### 👨‍💻 About Me
-- 🙋‍♂️ Full Stack Developer at **Applivity Pvt Ltd**
-- 🌱 **3+ years of professional experience**
+- 🙋‍♂️ Working as a Full Stack Developer
+- 🌱 **4+ years of professional experience**
 - 💬 Ask me about **Web Development | MERN | REST APIs | Databases**
 - 🎮 In my free time: I enjoy video games, movies, sports, and TV shows
 - 📫 Reach me at **ehtsham.shahbaz.1998@gmail.com**
